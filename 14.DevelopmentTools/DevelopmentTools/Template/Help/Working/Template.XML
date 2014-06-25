@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Template</name>
+    </assembly>
+    <members>
+        <member name="T:Template.T4Template">
+            <summary>
+            Main class, entry point
+            </summary>
+        </member>
+    </members>
+</doc>

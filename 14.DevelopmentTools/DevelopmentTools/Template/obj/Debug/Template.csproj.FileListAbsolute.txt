@@ -1,0 +1,13 @@
+C:\Users\svetoslav\Desktop\DevelopmentTools\Template\bin\Debug\Template.exe.config
+C:\Users\svetoslav\Desktop\DevelopmentTools\Template\bin\Debug\Template.exe
+C:\Users\svetoslav\Desktop\DevelopmentTools\Template\bin\Debug\Template.pdb
+C:\Users\svetoslav\Desktop\DevelopmentTools\Template\bin\Debug\log4net.dll
+C:\Users\svetoslav\Desktop\DevelopmentTools\Template\bin\Debug\log4net.xml
+C:\Users\svetoslav\Desktop\DevelopmentTools\Template\obj\Debug\Template.csprojResolveAssemblyReference.cache
+C:\Users\svetoslav\Desktop\DevelopmentTools\Template\obj\Debug\Template.exe
+C:\Users\svetoslav\Desktop\DevelopmentTools\Template\obj\Debug\Template.pdb
+C:\Users\svetoslav\Desktop\DevelopmentTools\Template\bin\Debug\Template.XML
+D:\Gemini\DEV\Akademy\Homework\KPK-Homework\14.DevelopmentTools\DevelopmentTools\Template\bin\Debug\Template.exe.config
+D:\Gemini\DEV\Akademy\Homework\KPK-Homework\14.DevelopmentTools\DevelopmentTools\Template\bin\Debug\Template.XML
+D:\Gemini\DEV\Akademy\Homework\KPK-Homework\14.DevelopmentTools\DevelopmentTools\Template\obj\Debug\Template.exe
+D:\Gemini\DEV\Akademy\Homework\KPK-Homework\14.DevelopmentTools\DevelopmentTools\Template\obj\Debug\Template.pdb

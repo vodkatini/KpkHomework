@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shfbBuild product="Sandcastle Help File Builder" version="1.9.8.0" projectFile="C:\Users\svetoslav\Desktop\DevelopmentTools\Template\T4Template.shfbproj" started="24-Jun-14 10:55:01 PM">
+<buildStep step="Initializing">
+Finding tools...
+Found Sandcastle tools in &#39;C:\Program Files (x86)\Sandcastle\&#39;
+Searching for HTML Help 1 compiler...
+Found HTML Help 1 compiler in &#39;C:\Program Files (x86)\HTML Help Workshop\&#39;
+</buildStep>
+<buildStep step="ValidatingDocumentationSources">
+Validating and copying documentation source information
+Source: C:\Users\svetoslav\Desktop\DevelopmentTools\Template\bin\Debug\Template.exe
+    Found assembly &#39;C:\Users\svetoslav\Desktop\DevelopmentTools\Template\bin\Debug\Template.exe&#39;
+Source: C:\Users\svetoslav\Desktop\DevelopmentTools\Template\bin\Debug\Template.XML
+
+Copying XML comments files
+    C:\Users\svetoslav\Desktop\DevelopmentTools\Template\bin\Debug\Template.XML -&gt; C:\Users\svetoslav\Desktop\DevelopmentTools\Template\Help\Working\Template.XML
+</buildStep>
+<buildStep step="GenerateSharedContent">
+Generating shared content files (en-US, English (United States))...
+    Last step completed in 00:00:00.1273
+</buildStep>
+<buildStep step="GenerateApiFilter">
+Generating API filter for MRefBuilder...
+    Last step completed in 00:00:00.0090
+</buildStep>
+<buildStep step="GenerateReflectionInfo">
+Generating reflection information...
+[C:\Windows\Microsoft.NET\Framework64\v4.0.30319\MSBuild.exe]
+  MRefBuilder (v2.7.4.0)
+  Copyright c 2006-2013, Microsoft Corporation, All Rights Reserved.
+  Portions Copyright c 2006-2013, Eric Woodruff, All Rights Reserved.
+  Info: Loaded 1 assemblies for reflection and 1 dependency assemblies.
+  Info: Wrote information on 0 namespaces, 0 types, and 0 members
+  XslTransform (v2.7.4.0)
+  Copyright c 2006-2013, Microsoft Corporation, All Rights Reserved.
+  Portions Copyright c 2006-2013, Eric Woodruff, All Rights Reserved.
+  Info: Applying XSL transformation &#39;C:\Program Files (x86)\Sandcastle\ProductionTransforms\MergeDuplicates.xsl&#39;.
+    Last step completed in 00:00:04.3499
+</buildStep>
+<buildStep step="GenerateNamespaceSummaries">
+Generating namespace summary information...
+    Last step completed in 00:00:00.0090
+</buildStep>
+<buildStep step="ApplyVisibilityProperties">
+Applying visibility properties to reflection information file
+    0 attribute nodes removed
+    0 explicit interface implementations removed
+    0 local and base class EII elements removed
+    Last step completed in 00:00:00.0110
+</buildStep>
+<buildStep step="Failed">
+
+SHFB: Error BE0033: No APIs found to document.  See error topic in help file for details.
+
+</buildStep>
+</shfbBuild>

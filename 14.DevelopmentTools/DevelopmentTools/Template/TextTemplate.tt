@@ -1,0 +1,6 @@
+﻿<#@ template debug="false" hostspecific="false" language="C#" #>
+<#@ assembly name="System.Core" #>
+<#@ output extension=".html" #>
+<html><body>
+ The date and time now is: <#= DateTime.Now #>
+</body></html>
